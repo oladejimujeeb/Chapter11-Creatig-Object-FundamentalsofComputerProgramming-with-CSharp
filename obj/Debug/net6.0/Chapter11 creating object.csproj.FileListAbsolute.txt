@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\Chapter11 creating object.exe
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\Chapter11 creating object.deps.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\Chapter11 creating object.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\Chapter11 creating object.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\ref\Chapter11 creating object.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\bin\Debug\net6.0\Chapter11 creating object.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\ref\Chapter11 creating object.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter11 creating object\obj\Debug\net6.0\Chapter11 creating object.genruntimeconfig.cache
